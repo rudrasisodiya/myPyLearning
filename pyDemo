@@ -1,1 +1,1 @@
-print("Welcome to the Rudra's world: {HAPPY SCRIPTING}")
+print(f"Welcome to the Rudra's world: {HAPPY SCRIPTING}")
